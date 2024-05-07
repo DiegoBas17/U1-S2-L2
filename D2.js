@@ -96,14 +96,15 @@ console.log("il suo conto è di €:", totalShoppingCart1)
   Utilizzando un blocco condizionale, crea un algoritmo per ordinarle secondo il loro valore, dal più alto al più basso.
   Alla fine mostra il risultato in console.
 */
-const a = 5
+
+/* const a = 5
 const b = 1
 const c = 8
 if(a>b && b>c) {
   console.log(a,b,c)
-} else if (a>b && b<c) {
-  
-}
+} else if (a>b && b<c) { */
+
+
 /* SCRIVI QUI LA TUA RISPOSTA */
 
 /* ESERCIZIO 8
